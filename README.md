@@ -39,7 +39,7 @@ pip install django-crispy-forms
 pip install crispy_bootstrap4 
 ```
 
-### Running develpment server
+### Running development server
 
 ```shell
 python manage.py runserver
